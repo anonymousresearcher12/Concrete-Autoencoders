@@ -10,3 +10,4 @@ There are 5 files.
 "GEO_experiment.py" contains experiments for the GEO dataset.
 "Concrete_Variable_Autoencoder_approach.ipynb" contains a jupyter notebook that was used to interactively generate the remaining figures and plots.
 
+"scikit-feature-1.0.0" folder contains implementations of MCFS, UDFS and Lap Score. It was taken from "http://featureselection.asu.edu/index.php"
